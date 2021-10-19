@@ -1,6 +1,12 @@
- ## Library System
+  > As you complete each section you **must** remove the prompt text. Every *turnin* of this project includes points for formatting of this README so keep it clean and keep it up to date. 
+ > Prompt text is any lines beginning with "\>"
+ > Replace anything between \<...\> with your project specifics and remove angle brackets. For example, you need to name your project and replace the header right below this line with that title (no angle brackets). 
+## Library System
 
-  Authors:  [Boyi Zhang](https://github.com/bzhan166)   [Jing Ling](https://github.com/Ophelia13908329)    [Luyao Li](https://github.com/lukalee)    [Tao Chen](https://github.com/tchen285)
+ > Authors: \<[Boyi Zhang](https://github.com/bzhan166)\> 
+ >  \<[Jing Ling](https://github.com/Ophelia13908329)\> 
+ >  \<[Luyao Li](https://github.com/lukalee)\> 
+ >  \<[Tao Chen](https://github.com/tchen285)\> 
  
  
  > ## Expectations
@@ -14,7 +20,7 @@
 > * All project phases are to be submitted to this GitHub repository. You should modify this README file to reflect the different phases of the project. In addition, you should regularly hold sprint meetings with your group. You will need to hold one check-in meeting with your lab TA in addition to the final demo.
 
 ## Project Description
- >     * Whenever we checked out books from the library, we felt that our school's checkout system was amazing. So, we wanted to understand more about our school's library system and its modules by implementing our own library system, and try to surpass our school's library system by our own efforts to achieve what our school's library system did not achieve. And we think that by implementing the book library system, we can implement similar systems in the future, such as borrowing money, selecting classes, etc. So, we think this is important and interesting!
+ > * Whenever we checked out books from the library, we felt that our school's checkout system was amazing. So, we wanted to understand more about our school's library system and its modules by implementing our own library system, and try to surpass our school's library system by our own efforts to achieve what our school's library system did not achieve. And we think that by implementing the book library system, we can implement similar systems in the future, such as borrowing money, selecting classes, etc. So, we think this is important and interesting!
  > * What languages/tools/technologies do you plan to use? (This list may change over the course of the project)
  >   * We plan to use C++ Language, hammer server, and Github.
  >   * [Vistual Studio 2019](https://visualstudio.microsoft.com/) - Full-featured IDE to code, debug, test, and deploy to any platform.
@@ -22,7 +28,7 @@
  > * What will be the input/output of your project? What are the features that the project provides?
  >   *  For registrational users, they can register an account for libriay, rent and return books from library, and search the book if it's available. The input is user basic information, like full name, username, password, or student ID. The output is the status of user borrowing book, like the name of the book, the due date of people should return the book, and the categories of all books.
  >   *  For librarian, they can add, edit, modify, lookup the status and information of books. The input is the information of the book, like the name, the borrowing status and category of books. The output is the information the librarian wanted to edit. 
- 
+
  > ## Phase II
  > In addition to completing the "Class Diagram" section below, you will need to:
  > * Create an "Epic" (note) for each feature and each design pattern and assign them to the appropriate team member. Place these in the `Backlog` column
