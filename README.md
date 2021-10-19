@@ -1,9 +1,9 @@
 ## Library System
 
- > Authors: \<[Boyi Zhang](https://github.com/bzhan166)\> 
- >  \<[Jing Ling](https://github.com/Ophelia13908329)\> 
- >  \<[Luyao Li](https://github.com/lukalee)\> 
- >  \<[Tao Chen](https://github.com/tchen285)\> 
+ > Authors: \[Boyi Zhang](https://github.com/bzhan166)\ 
+ >  \[Jing Ling](https://github.com/Ophelia13908329)\ 
+ >  \[Luyao Li](https://github.com/lukalee)\ 
+ >  \[Tao Chen](https://github.com/tchen285)\ 
  
  
  > ## Expectations
